@@ -1,0 +1,20 @@
+hr {
+  width: 90%;
+  height: 1px;
+  background-color: black;
+  margin: auto;
+  color: black;
+}
+
+div.header {
+  width: 40%;
+  height: auto;
+  float: left;
+  border: 1px black;
+}
+
+div.nav {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 30px;
+}
